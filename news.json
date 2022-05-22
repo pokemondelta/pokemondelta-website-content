@@ -1,0 +1,19 @@
+{
+  "newsArticles": [
+    {
+      "imageUrl": "https://forums.playredfox.com/index.php?attachments/s00003-jpg.16837/",
+      "title": "Some News Article",
+      "description": "This is a random news article"
+    },
+    {
+      "imageUrl": "https://forums.playredfox.com/index.php?attachments/s00003-jpg.16837/",
+      "title": "Some News Article",
+      "description": "This is a random news article"
+    },
+    {
+      "imageUrl": "https://forums.playredfox.com/index.php?attachments/s00003-jpg.16837/",
+      "title": "Some News Article",
+      "description": "This is a random news article"
+    }
+  ]
+}
